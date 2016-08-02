@@ -18,7 +18,7 @@ namespace MatrixObjectCalculator
 
         static void Main(string[] args)
         {
-            string pathSource = @"C:\Users\trubac\Desktop\matrix.bin";
+            string pathSource = @"C:\Users\trubac\Desktop\matrix.xml";
             //string pathSource = @"C:\Users\trubac\Desktop\matrix.json";
             Loader matrixReader = new Loader(pathSource);
             Matrix matrix;
