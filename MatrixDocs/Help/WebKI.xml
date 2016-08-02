@@ -1,0 +1,462 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<HelpKI>
+  <HelpKINode Title="Abreviate method" Url="html/33203292-080a-d78a-cb59-6e8b973888b7.htm" />
+  <HelpKINode Title="AddBytesToInt16 method" Url="html/9882793a-41e8-db2a-25eb-5cb30f22de9d.htm" />
+  <HelpKINode Title="Addition operator">
+    <HelpKINode Title="MatrixRow.Addition Operator " Url="html/68bf2b52-35a4-14c3-be17-7f47f6cb2382.htm" />
+    <HelpKINode Title="Rational.Addition Operator " Url="html/591adc9a-619c-82bb-346a-6637e37226f7.htm" />
+  </HelpKINode>
+  <HelpKINode Title="BinMatrixReader class">
+    <HelpKINode Title="BinMatrixReader Class" Url="html/a141d3e3-2fa5-eb1f-b73d-a0a841f7aff2.htm" />
+    <HelpKINode Title="about BinMatrixReader class" Url="html/a141d3e3-2fa5-eb1f-b73d-a0a841f7aff2.htm" />
+    <HelpKINode Title="constructor" Url="html/4927df7f-a94f-334b-8a12-306945d77550.htm" />
+    <HelpKINode Title="methods" Url="html/b119a27f-47c6-82a5-c005-2b994327f307.htm" />
+  </HelpKINode>
+  <HelpKINode Title="BinMatrixReader.BinMatrixReader constructor" Url="html/4927df7f-a94f-334b-8a12-306945d77550.htm" />
+  <HelpKINode Title="BinMatrixReader.Load method" Url="html/6685a7f2-f763-8e9a-3544-ab2baa047940.htm" />
+  <HelpKINode Title="ClearUnwantedCoefficients method" Url="html/47750cc8-4a25-adaf-9ce1-dc8b07b13929.htm" />
+  <HelpKINode Title="Coefficients property" Url="html/72326670-2216-afb5-067e-7604988efb3b.htm" />
+  <HelpKINode Title="Coefs field" Url="html/32bd4db5-5cf3-a16d-4b8a-472933cb8fa6.htm" />
+  <HelpKINode Title="Coefs property">
+    <HelpKINode Title="MatrixRowJson.Coefs Property " Url="html/935712b1-ad6e-b133-e0a8-84682985c91c.htm" />
+    <HelpKINode Title="MatrixRowXml.Coefs Property " Url="html/a0b6a6c7-7b5a-c337-5edb-de60713b9ea5.htm" />
+  </HelpKINode>
+  <HelpKINode Title="ColumnCount property" Url="html/38ea0d42-514b-afa7-2bb2-12af4e276fa2.htm" />
+  <HelpKINode Title="Common namespace" Url="html/350a98f3-3050-4548-af39-4fab96d71ecc.htm" />
+  <HelpKINode Title="Common.Utils class" Url="html/01f76b27-b87a-059c-cba0-4e8159a0a4ce.htm" />
+  <HelpKINode Title="ComputeHistory property" Url="html/147d93e3-c3a3-9016-7f31-f260472e5bb7.htm" />
+  <HelpKINode Title="DeepClone(Of T) method" Url="html/4b3a34d7-0386-63a0-83dc-d6858dbe69ec.htm" />
+  <HelpKINode Title="DeepClone2 method" Url="html/c81abbf2-2f7b-0822-0a87-9b8b0491c9db.htm" />
+  <HelpKINode Title="DeepClone&lt;T&gt; method" Url="html/4b3a34d7-0386-63a0-83dc-d6858dbe69ec.htm" />
+  <HelpKINode Title="Denominator property" Url="html/a78bd8a4-211d-a178-add9-144c8882db78.htm" />
+  <HelpKINode Title="Division operator" Url="html/76480ca0-aa9a-3022-0446-83469a045726.htm" />
+  <HelpKINode Title="Double to Rational conversion" Url="html/c2105a29-cfc9-b70b-d87a-800017cbcdf3.htm" />
+  <HelpKINode Title="DoubleArrayToString method" Url="html/46904c7f-66e9-54df-3fd9-4bf89218bf59.htm" />
+  <HelpKINode Title="Equality operator">
+    <HelpKINode Title="MatrixRow.Equality Operator " Url="html/4cfb3955-3697-c17b-e724-50ff3f3918a5.htm" />
+    <HelpKINode Title="Rational.Equality Operator " Url="html/d4cbd6db-953f-ec8e-6e18-23652a4996c2.htm" />
+  </HelpKINode>
+  <HelpKINode Title="Equals method">
+    <HelpKINode Title="Matrix.Equals Method " Url="html/0ff4c2e0-30ea-2d1a-33eb-66206bc85cd1.htm" />
+    <HelpKINode Title="MatrixRow.Equals Method " Url="html/ee636d31-9b26-cb48-e9fb-dbc6ef09fa29.htm" />
+    <HelpKINode Title="Rational.Equals Method " Url="html/1ff934ec-f95b-c3c7-48bb-095158ec364f.htm" />
+  </HelpKINode>
+  <HelpKINode Title="Exact enumeration member" Url="html/bad8965e-73d3-44b0-6e55-a8efcb56923c.htm" />
+  <HelpKINode Title="GetDigitsAmount method" Url="html/1bf20a89-398c-5eef-8849-9e76da0733ec.htm" />
+  <HelpKINode Title="GetHashCode method">
+    <HelpKINode Title="Matrix.GetHashCode Method " Url="html/6ab480f2-d194-58e6-ecd0-4e13767e9901.htm" />
+    <HelpKINode Title="MatrixRow.GetHashCode Method " Url="html/89358713-0d47-0b08-5b17-6edfdaf6783f.htm" />
+    <HelpKINode Title="Rational.GetHashCode Method " Url="html/a708f79b-b22e-59df-ab9d-0d37212cb144.htm" />
+  </HelpKINode>
+  <HelpKINode Title="GetHighestCommonDividor method" Url="html/4aa94b12-88a2-78e0-121e-d43ac01b0129.htm" />
+  <HelpKINode Title="GetListOfCommonPartialDividors method" Url="html/a7651264-8985-232e-54eb-1e56af26c25c.htm" />
+  <HelpKINode Title="GetMatrixJson class">
+    <HelpKINode Title="GetMatrixJson Class" Url="html/f63fbc89-7315-8e7e-0348-9d1414eced8a.htm" />
+    <HelpKINode Title="about GetMatrixJson class" Url="html/f63fbc89-7315-8e7e-0348-9d1414eced8a.htm" />
+    <HelpKINode Title="constructor" Url="html/4139eadf-5bd2-c972-a55e-ffaacd921992.htm" />
+    <HelpKINode Title="fields" Url="html/dd071ac8-80de-8a2e-5682-4d879984b2f7.htm" />
+    <HelpKINode Title="methods" Url="html/41c1c3c3-3f69-fcf8-f9aa-6025794edb54.htm" />
+  </HelpKINode>
+  <HelpKINode Title="GetMatrixJson.GetMatrixJson constructor" Url="html/4139eadf-5bd2-c972-a55e-ffaacd921992.htm" />
+  <HelpKINode Title="GetMatrixJson.Height field" Url="html/243731c8-cadf-6588-4c6c-a2cd6ad585f0.htm" />
+  <HelpKINode Title="GetMatrixJson.Rows field" Url="html/83d4b69d-8e19-7086-b900-5bfd55ac21ae.htm" />
+  <HelpKINode Title="GetMatrixJson.Width field" Url="html/44020163-d172-ae46-9b52-aa74aaee87b0.htm" />
+  <HelpKINode Title="GetPartialDividors method" Url="html/8fb97c4f-6d8b-1f3b-04d4-82362ddaaf69.htm" />
+  <HelpKINode Title="GetSmallestCommonMultiple method" Url="html/8a3323ca-b7a4-f430-057d-2156622108be.htm" />
+  <HelpKINode Title="GreaterThan operator" Url="html/e9ac9db5-0cf5-7152-7b61-f2b1d27397e6.htm" />
+  <HelpKINode Title="Height field" Url="html/243731c8-cadf-6588-4c6c-a2cd6ad585f0.htm" />
+  <HelpKINode Title="Height property">
+    <HelpKINode Title="MatrixJson.Height Property " Url="html/9946a490-e951-5d3b-db6e-0af2e7389f1d.htm" />
+    <HelpKINode Title="MatrixXml.Height Property " Url="html/6ab8b87c-556c-872c-9cb8-e00ff15fa673.htm" />
+  </HelpKINode>
+  <HelpKINode Title="Inequality operator">
+    <HelpKINode Title="MatrixRow.Inequality Operator " Url="html/f1eb4e9a-0506-df37-415b-064c1de422ab.htm" />
+    <HelpKINode Title="Rational.Inequality Operator " Url="html/158374b2-e0f6-9c6c-5993-31898188b28f.htm" />
+  </HelpKINode>
+  <HelpKINode Title="Infinite enumeration member" Url="html/bad8965e-73d3-44b0-6e55-a8efcb56923c.htm" />
+  <HelpKINode Title="InfiniteSolutions enumeration member" Url="html/28733f22-7d3a-baf0-5ca4-9db064c4bf4b.htm" />
+  <HelpKINode Title="Int32 to Rational conversion" Url="html/c88cbd03-8858-3564-2dfe-1bbdb791db5c.htm" />
+  <HelpKINode Title="JsonMatrixReader class">
+    <HelpKINode Title="JsonMatrixReader Class" Url="html/14c033e7-9446-76e0-5570-1e0f912773a6.htm" />
+    <HelpKINode Title="about JsonMatrixReader class" Url="html/14c033e7-9446-76e0-5570-1e0f912773a6.htm" />
+    <HelpKINode Title="constructor" Url="html/bfec9a72-6785-5f0d-48ef-8f90dc2d2227.htm" />
+    <HelpKINode Title="methods" Url="html/1eea2a33-563c-cc26-c77b-6fd1cb2416b9.htm" />
+  </HelpKINode>
+  <HelpKINode Title="JsonMatrixReader.JsonMatrixReader constructor" Url="html/bfec9a72-6785-5f0d-48ef-8f90dc2d2227.htm" />
+  <HelpKINode Title="JsonMatrixReader.Load method" Url="html/4a0efd75-0a63-618c-e0d7-568c267e4fa2.htm" />
+  <HelpKINode Title="LessThan operator" Url="html/d7a7b94e-4eca-d7c3-a2c3-3bf45cdf39c1.htm" />
+  <HelpKINode Title="Load method">
+    <HelpKINode Title="BinMatrixReader.Load Method " Url="html/6685a7f2-f763-8e9a-3544-ab2baa047940.htm" />
+    <HelpKINode Title="JsonMatrixReader.Load Method " Url="html/4a0efd75-0a63-618c-e0d7-568c267e4fa2.htm" />
+    <HelpKINode Title="Loader.Load Method " Url="html/f4358465-0bdc-ab1a-fe69-79c3141e1c01.htm" />
+    <HelpKINode Title="TxtMatrixReader.Load Method " Url="html/7f4ad277-f7d2-1c18-dd2e-df90621f026a.htm" />
+    <HelpKINode Title="XmlMatrixReader.Load Method " Url="html/71cdc5ec-f9b7-4914-f297-139ba0be1f96.htm" />
+  </HelpKINode>
+  <HelpKINode Title="Loader class">
+    <HelpKINode Title="Loader Class" Url="html/aed3ff77-0d9a-5a71-5459-c45202ce583d.htm" />
+    <HelpKINode Title="about Loader class" Url="html/aed3ff77-0d9a-5a71-5459-c45202ce583d.htm" />
+    <HelpKINode Title="constructor" Url="html/695fa515-4a91-dc51-303b-f2a44950df1c.htm" />
+    <HelpKINode Title="methods" Url="html/e7e76ab5-89dd-90c4-a3fd-6ef463540235.htm" />
+  </HelpKINode>
+  <HelpKINode Title="Loader.Load method" Url="html/f4358465-0bdc-ab1a-fe69-79c3141e1c01.htm" />
+  <HelpKINode Title="Loader.Loader constructor" Url="html/695fa515-4a91-dc51-303b-f2a44950df1c.htm" />
+  <HelpKINode Title="MainMatrixReaderLibTest class">
+    <HelpKINode Title="MainMatrixReaderLibTest Class" Url="html/95b90059-1039-fe08-8eab-f8dec167c829.htm" />
+    <HelpKINode Title="about MainMatrixReaderLibTest class" Url="html/95b90059-1039-fe08-8eab-f8dec167c829.htm" />
+    <HelpKINode Title="constructor" Url="html/416a8a38-211c-8226-9651-7c60c4964ad4.htm" />
+    <HelpKINode Title="methods" Url="html/c7d0ade7-7dc2-4d87-b572-3a5bc580a58d.htm" />
+  </HelpKINode>
+  <HelpKINode Title="MainMatrixReaderLibTest.MainMatrixReaderLibTest constructor" Url="html/416a8a38-211c-8226-9651-7c60c4964ad4.htm" />
+  <HelpKINode Title="MainMatrixReaderLibTest.Test_BinMatrixReader_LoadEqualMatrixes method" Url="html/a43cf87a-80b2-9028-8346-5971242291c0.htm" />
+  <HelpKINode Title="MainMatrixReaderLibTest.Test_BinMatrixReader_ValidateCheckSum_CorrectVersion method" Url="html/d1d329aa-e706-aa3f-d7b8-90a8f69c8143.htm" />
+  <HelpKINode Title="MainMatrixReaderLibTest.Test_BinMatrixReader_ValidateCheckSum_IncorrectVersion method" Url="html/2f0e1099-fbd2-48be-62e1-8465528c651e.htm" />
+  <HelpKINode Title="MainMatrixReaderLibTest.Test_BinMatrixReader_ValidateMatrixFooter_CorrectVersion method" Url="html/59160a14-e623-c8fe-c366-35ab89871d29.htm" />
+  <HelpKINode Title="MainMatrixReaderLibTest.Test_BinMatrixReader_ValidateMatrixFooter_IncorrectVersion method" Url="html/1935c2c0-d015-33b7-488d-c6c613fadfef.htm" />
+  <HelpKINode Title="MainMatrixReaderLibTest.Test_BinMatrixReader_ValidateMatrixVersion_CorrectVersion_Version1 method" Url="html/e67becf4-3f24-49b4-0ec3-624397a56cf5.htm" />
+  <HelpKINode Title="MainMatrixReaderLibTest.Test_BinMatrixReader_ValidateMatrixVersion_CorrectVersion_Version2 method" Url="html/3eadca32-517e-c56b-1e03-1f05d014184f.htm" />
+  <HelpKINode Title="MainMatrixReaderLibTest.Test_BinMatrixReader_ValidateMatrixVersion_IncorrectVersion method" Url="html/4e7ec544-16c1-fe7b-b90a-79876b06e0f1.htm" />
+  <HelpKINode Title="MainMatrixReaderLibTest.Test_BinMatrixReader_ValidateRowFooter_CorrectVersion method" Url="html/46975d7f-5d4b-4c91-b9d2-c08f51e9db5e.htm" />
+  <HelpKINode Title="MainMatrixReaderLibTest.Test_BinMatrixReader_ValidateRowFooter_IncorrectVersion method" Url="html/8d8031e4-ed2e-5637-76b6-69e0b4aa4615.htm" />
+  <HelpKINode Title="MainMatrixReaderLibTest.Test_JsonMatrixReader_Load method" Url="html/43cfcbf5-1d73-cefb-09f2-bee97458f454.htm" />
+  <HelpKINode Title="MainMatrixReaderLibTest.Test_MatrixLoad_MissingNumber method" Url="html/1f60b3df-cb91-3c3a-5169-23a66315e4b7.htm" />
+  <HelpKINode Title="MainMatrixReaderLibTest.Test_MatrixLoad_WrongFormat method" Url="html/0beeab95-289e-0724-231b-caeff5dfc4e3.htm" />
+  <HelpKINode Title="MainMatrixReaderLibTest.Test_TxtMatrixReader_LoadDifferentMatrixes method" Url="html/a319b679-e9db-0c58-0890-163f1db441e9.htm" />
+  <HelpKINode Title="MainMatrixReaderLibTest.Test_TxtMatrixReader_LoadEqualMatrixes method" Url="html/061aac04-c162-8127-b5df-725be3e5d1a6.htm" />
+  <HelpKINode Title="MainMatrixReaderLibTest.Test_XmlMatrixReader_Load method" Url="html/c814f6dc-dbd1-f47a-68ba-77612bc5e092.htm" />
+  <HelpKINode Title="MainMatrixTest class">
+    <HelpKINode Title="MainMatrixTest Class" Url="html/96e1cddb-9374-3631-c4c3-1e22e01c5a9f.htm" />
+    <HelpKINode Title="about MainMatrixTest class" Url="html/96e1cddb-9374-3631-c4c3-1e22e01c5a9f.htm" />
+    <HelpKINode Title="constructor" Url="html/2094ed02-6b00-ab5f-f463-e5c44f5b4ed5.htm" />
+    <HelpKINode Title="methods" Url="html/e505f742-e4d0-eb68-ec2a-9b444f33f980.htm" />
+  </HelpKINode>
+  <HelpKINode Title="MainMatrixTest.MainMatrixTest constructor" Url="html/2094ed02-6b00-ab5f-f463-e5c44f5b4ed5.htm" />
+  <HelpKINode Title="MainMatrixTest.Test_ClearUnwantedCoefficients method" Url="html/70034cae-4c62-c7e5-d782-8121452dcb43.htm" />
+  <HelpKINode Title="MainMatrixTest.Test_MatrixValidate_MissingOneCoefficient method" Url="html/381ae298-d201-22c6-c5b2-c2031e3391c4.htm" />
+  <HelpKINode Title="MainMatrixTest.Test_MatrixValidate_MissingOneRow method" Url="html/b6b31a47-5ffd-679b-dc82-1f345a37be57.htm" />
+  <HelpKINode Title="MainMatrixTest.Test_SolveMethodWithListOfRandomMatrixes method" Url="html/cd539a55-3d60-b24b-d1bf-ff0de0f482fe.htm" />
+  <HelpKINode Title="MainMatrixTest.Test_SolveMethodWithSingleRandomMatrix method" Url="html/d8f9e3a1-b278-0cbb-03dc-17da84066267.htm" />
+  <HelpKINode Title="MainRationalTest class">
+    <HelpKINode Title="MainRationalTest Class" Url="html/6d61ecac-befb-d4a9-a56d-28a82657101d.htm" />
+    <HelpKINode Title="about MainRationalTest class" Url="html/6d61ecac-befb-d4a9-a56d-28a82657101d.htm" />
+    <HelpKINode Title="constructor" Url="html/b482451c-924c-bf7f-2a64-2a919f453113.htm" />
+    <HelpKINode Title="methods" Url="html/20396113-ffb5-99c1-fe60-2593f9f28876.htm" />
+  </HelpKINode>
+  <HelpKINode Title="MainRationalTest.MainRationalTest constructor" Url="html/b482451c-924c-bf7f-2a64-2a919f453113.htm" />
+  <HelpKINode Title="MainRationalTest.TestRationalPrecision method" Url="html/c7b2b82c-4a9a-3c8b-0073-a4f011e5f68d.htm" />
+  <HelpKINode Title="MainRationalTest.TestRationalPrecisionInt method" Url="html/5ef268f2-c6bb-dd2b-73fa-2454180b7a19.htm" />
+  <HelpKINode Title="MainRationalTest.Test_BiggerOperatorNegative method" Url="html/c1cfab78-8c0b-5ce0-4ef6-40068ae0126a.htm" />
+  <HelpKINode Title="MainRationalTest.Test_BiggerOperatorPositive method" Url="html/fff74f54-d26f-30ad-ba34-5ea13ad1e8ec.htm" />
+  <HelpKINode Title="MainRationalTest.Test_CompareOperatorPositive method" Url="html/bb72e8e8-9bff-2990-6bab-1138bbb1682a.htm" />
+  <HelpKINode Title="MainRationalTest.Test_DivisionOperatorNegative method" Url="html/bec9ecba-01ae-98fa-674b-498fcb02fc6e.htm" />
+  <HelpKINode Title="MainRationalTest.Test_DivisionOperatorPositive method" Url="html/dbdcdae3-5ccf-c3ec-6e16-2dccbbe6a2f6.htm" />
+  <HelpKINode Title="MainRationalTest.Test_EqualOperatorNegative method" Url="html/8fd2a60a-0ab6-99fe-ae1a-91acb064df07.htm" />
+  <HelpKINode Title="MainRationalTest.Test_GetDigitsAmount_FiveDigitNumber method" Url="html/6fff1525-9740-ae81-1c2a-5a7d74fae830.htm" />
+  <HelpKINode Title="MainRationalTest.Test_GetHighestCommonDividor method" Url="html/15d40ffb-095e-3615-e1f6-c4037cef7cba.htm" />
+  <HelpKINode Title="MainRationalTest.Test_GetListOfCommonPartialDividors method" Url="html/3ab7110e-fb9c-e2f2-c068-48626ad58e56.htm" />
+  <HelpKINode Title="MainRationalTest.Test_GetPartialDividors method" Url="html/d139e143-d9ad-b38d-66df-b52aff26f55e.htm" />
+  <HelpKINode Title="MainRationalTest.Test_GetSmallestCommonMultiple_TwoPrimeNumbers method" Url="html/8a9fd36d-4f29-c849-2832-029a694dc190.htm" />
+  <HelpKINode Title="MainRationalTest.Test_GetSmallestCommonMultiple_TwoSplittableNumbers method" Url="html/e8e5632e-70f2-78b3-4606-4ed796cda57d.htm" />
+  <HelpKINode Title="MainRationalTest.Test_MinusOperatorNegative method" Url="html/25e2fbc5-4bfc-f812-79c0-3c688120eefd.htm" />
+  <HelpKINode Title="MainRationalTest.Test_MinusOperatorPositive method" Url="html/95adf660-7fe9-f22e-1488-455981471ba9.htm" />
+  <HelpKINode Title="MainRationalTest.Test_MulOperatorNegative method" Url="html/edc90869-4860-337c-3cea-9c8333d6cda4.htm" />
+  <HelpKINode Title="MainRationalTest.Test_MulOperatorPositive method" Url="html/78622e36-1fe3-a7a5-5c18-3f11d1915321.htm" />
+  <HelpKINode Title="MainRationalTest.Test_PlusOperatorNegative method" Url="html/57a12d02-a5d3-be0b-a285-5b1daca2027b.htm" />
+  <HelpKINode Title="MainRationalTest.Test_PlusOperatorPositive method" Url="html/a675cca7-fb58-798c-358d-b2d77b413480.htm" />
+  <HelpKINode Title="MainRationalTest.Test_SmallerOperatorNegative method" Url="html/c5012c5f-0a59-68b7-c8c5-9a4453948b66.htm" />
+  <HelpKINode Title="MainRationalTest.Test_SmallerOperatorPositive method" Url="html/a7b42f90-8fe8-5df6-8adb-36f785cf82b9.htm" />
+  <HelpKINode Title="MainRationalTest.Test_UnequalOperatorNegative method" Url="html/9b74b8b9-fc2f-d1dc-56da-865e7e73ba2e.htm" />
+  <HelpKINode Title="MainRationalTest.Test_UnequalOperatorPositive method" Url="html/78dd4b6c-6cd5-3ccd-7caf-59fee9593815.htm" />
+  <HelpKINode Title="Matrix class">
+    <HelpKINode Title="Matrix Class" Url="html/12a05c80-32e7-dc0b-0270-e22d73da0150.htm" />
+    <HelpKINode Title="about Matrix class" Url="html/12a05c80-32e7-dc0b-0270-e22d73da0150.htm" />
+    <HelpKINode Title="constructor" Url="html/3e448e1e-2795-8ec6-8887-9f89b0f736f6.htm" />
+    <HelpKINode Title="methods" Url="html/f2171d09-83d1-2aa8-2fdc-f2982e6eb69c.htm" />
+    <HelpKINode Title="properties" Url="html/8c9445a7-c75a-a554-bd42-7a84cfcbeace.htm" />
+  </HelpKINode>
+  <HelpKINode Title="Matrix.ClearUnwantedCoefficients method" Url="html/47750cc8-4a25-adaf-9ce1-dc8b07b13929.htm" />
+  <HelpKINode Title="Matrix.ColumnCount property" Url="html/38ea0d42-514b-afa7-2bb2-12af4e276fa2.htm" />
+  <HelpKINode Title="Matrix.ComputeHistory property" Url="html/147d93e3-c3a3-9016-7f31-f260472e5bb7.htm" />
+  <HelpKINode Title="Matrix.Equals method" Url="html/0ff4c2e0-30ea-2d1a-33eb-66206bc85cd1.htm" />
+  <HelpKINode Title="Matrix.GetHashCode method" Url="html/6ab480f2-d194-58e6-ecd0-4e13767e9901.htm" />
+  <HelpKINode Title="Matrix.Matrix constructor" Url="html/3e448e1e-2795-8ec6-8887-9f89b0f736f6.htm" />
+  <HelpKINode Title="Matrix.MatrixResult enumeration" Url="html/bad8965e-73d3-44b0-6e55-a8efcb56923c.htm" />
+  <HelpKINode Title="Matrix.RowCount property" Url="html/8c9b8b02-589e-4210-d8d7-8ee8382c7068.htm" />
+  <HelpKINode Title="Matrix.Rows property" Url="html/b4eec1b1-3598-5218-8101-bcdd18a6c380.htm" />
+  <HelpKINode Title="Matrix.Solve method" Url="html/f1eabbdc-67fd-a700-540c-cb44f0c0f567.htm" />
+  <HelpKINode Title="Matrix.ToString method" Url="html/2aff8897-1b98-2fd0-39f9-a94529a37bb6.htm" />
+  <HelpKINode Title="Matrix.Validate method" Url="html/ed44fbc9-e547-5de9-3c9e-3b9e96eea500.htm" />
+  <HelpKINode Title="Matrix.Verify method" Url="html/0197f592-f1aa-27f4-fd81-9a1fbc87772a.htm" />
+  <HelpKINode Title="MatrixCalculator namespace" Url="html/a068b994-c998-1d6f-94b7-4c8a2807730b.htm" />
+  <HelpKINode Title="MatrixCalculator.MatrixFileNotCompleteException class" Url="html/dbe2ca30-a96d-59a5-dbdf-db933016ee30.htm" />
+  <HelpKINode Title="MatrixCalculator.MatrixHasInfiniteSolutionsException class" Url="html/adfd1bd4-ad94-81b9-280e-25b4ab891c57.htm" />
+  <HelpKINode Title="MatrixCalculator.MatrixHasNoSolutionException class" Url="html/0ce2d66a-2135-1710-b4fb-5279fe8ed95c.htm" />
+  <HelpKINode Title="MatrixFileNotCompleteException class">
+    <HelpKINode Title="MatrixFileNotCompleteException Class" Url="html/dbe2ca30-a96d-59a5-dbdf-db933016ee30.htm" />
+    <HelpKINode Title="about MatrixFileNotCompleteException class" Url="html/dbe2ca30-a96d-59a5-dbdf-db933016ee30.htm" />
+    <HelpKINode Title="constructor" Url="html/ac20eae4-a1b8-691f-e917-7ed18709c727.htm" />
+    <HelpKINode Title="events" Url="html/5ad9465e-17b2-d2cb-fbd4-ea02f0a9b97f.htm" />
+    <HelpKINode Title="methods" Url="html/64a50c0d-e252-73f9-8f60-7dc324a5bbe1.htm" />
+    <HelpKINode Title="properties" Url="html/22fc32cb-5773-6592-d11e-340eedf6566c.htm" />
+  </HelpKINode>
+  <HelpKINode Title="MatrixFileNotCompleteException.MatrixFileNotCompleteException constructor" Url="html/ac20eae4-a1b8-691f-e917-7ed18709c727.htm" />
+  <HelpKINode Title="MatrixHasInfiniteSolutionsException class">
+    <HelpKINode Title="MatrixHasInfiniteSolutionsException Class" Url="html/adfd1bd4-ad94-81b9-280e-25b4ab891c57.htm" />
+    <HelpKINode Title="about MatrixHasInfiniteSolutionsException class" Url="html/adfd1bd4-ad94-81b9-280e-25b4ab891c57.htm" />
+    <HelpKINode Title="constructor" Url="html/61f5fcfb-907c-f2f2-2c53-01aa3da7bf99.htm" />
+    <HelpKINode Title="events" Url="html/eaa7f083-e853-2345-9f7e-2d134e1b43af.htm" />
+    <HelpKINode Title="methods" Url="html/9aef7e43-9157-fe47-7c16-1425dd7af469.htm" />
+    <HelpKINode Title="properties" Url="html/9d0f4489-8026-8086-410e-2c3aafa6d0f1.htm" />
+  </HelpKINode>
+  <HelpKINode Title="MatrixHasInfiniteSolutionsException.MatrixHasInfiniteSolutionsException constructor" Url="html/61f5fcfb-907c-f2f2-2c53-01aa3da7bf99.htm" />
+  <HelpKINode Title="MatrixHasNoSolutionException class">
+    <HelpKINode Title="MatrixHasNoSolutionException Class" Url="html/0ce2d66a-2135-1710-b4fb-5279fe8ed95c.htm" />
+    <HelpKINode Title="about MatrixHasNoSolutionException class" Url="html/0ce2d66a-2135-1710-b4fb-5279fe8ed95c.htm" />
+    <HelpKINode Title="constructor" Url="html/176fabb8-fc29-deda-f82c-e5cfabc2faea.htm" />
+    <HelpKINode Title="events" Url="html/431b739c-1382-4630-972e-7cfd27e7816a.htm" />
+    <HelpKINode Title="methods" Url="html/2c362469-d4a0-9d15-4673-0f346210daf3.htm" />
+    <HelpKINode Title="properties" Url="html/8a3a3df8-0df6-1a0d-3d9b-76dee77bf00f.htm" />
+  </HelpKINode>
+  <HelpKINode Title="MatrixHasNoSolutionException.MatrixHasNoSolutionException constructor" Url="html/176fabb8-fc29-deda-f82c-e5cfabc2faea.htm" />
+  <HelpKINode Title="MatrixJson class">
+    <HelpKINode Title="MatrixJson Class" Url="html/63f7a590-6e71-b35a-b05e-f9dd712d94b3.htm" />
+    <HelpKINode Title="about MatrixJson class" Url="html/63f7a590-6e71-b35a-b05e-f9dd712d94b3.htm" />
+    <HelpKINode Title="constructor" Url="html/2057365e-bd58-e251-3b30-9e13d5b53e3f.htm" />
+    <HelpKINode Title="methods" Url="html/8bb7fa9c-7637-265b-4cf1-c9e24f459715.htm" />
+    <HelpKINode Title="properties" Url="html/161c99f7-a63b-60d0-f9a2-44981b46b8c6.htm" />
+  </HelpKINode>
+  <HelpKINode Title="MatrixJson.Height property" Url="html/9946a490-e951-5d3b-db6e-0af2e7389f1d.htm" />
+  <HelpKINode Title="MatrixJson.MatrixJson constructor" Url="html/2057365e-bd58-e251-3b30-9e13d5b53e3f.htm" />
+  <HelpKINode Title="MatrixJson.Rows property" Url="html/4809e3e4-b324-ac6a-ef45-5f8688458b28.htm" />
+  <HelpKINode Title="MatrixJson.Width property" Url="html/5208dc04-ecb8-e939-7e91-792f8766a89a.htm" />
+  <HelpKINode Title="MatrixLib namespace" Url="html/740e708b-482f-6727-ece6-17a325d1e3ae.htm" />
+  <HelpKINode Title="MatrixLib.Matrix class" Url="html/12a05c80-32e7-dc0b-0270-e22d73da0150.htm" />
+  <HelpKINode Title="MatrixLib.Matrix.MatrixResult enumeration" Url="html/bad8965e-73d3-44b0-6e55-a8efcb56923c.htm" />
+  <HelpKINode Title="MatrixLib.MatrixRow class" Url="html/7816b1e6-2f22-f87f-46d3-d253caa5c176.htm" />
+  <HelpKINode Title="MatrixLib.MatrixRow.ValidationResult enumeration" Url="html/28733f22-7d3a-baf0-5ca4-9db064c4bf4b.htm" />
+  <HelpKINode Title="MatrixLibUnitTest namespace" Url="html/cd60d98a-47e6-65d8-465c-162d2b5b1322.htm" />
+  <HelpKINode Title="MatrixLibUnitTest.MainMatrixTest class" Url="html/96e1cddb-9374-3631-c4c3-1e22e01c5a9f.htm" />
+  <HelpKINode Title="MatrixReaderLib namespace" Url="html/c9015606-66cd-f601-7829-410f1c55b968.htm" />
+  <HelpKINode Title="MatrixReaderLib.BinMatrixReader class" Url="html/a141d3e3-2fa5-eb1f-b73d-a0a841f7aff2.htm" />
+  <HelpKINode Title="MatrixReaderLib.JsonMatrixReader class" Url="html/14c033e7-9446-76e0-5570-1e0f912773a6.htm" />
+  <HelpKINode Title="MatrixReaderLib.Loader class" Url="html/aed3ff77-0d9a-5a71-5459-c45202ce583d.htm" />
+  <HelpKINode Title="MatrixReaderLib.MatrixJson class" Url="html/63f7a590-6e71-b35a-b05e-f9dd712d94b3.htm" />
+  <HelpKINode Title="MatrixReaderLib.MatrixRowJson class" Url="html/1395cf05-1d69-cc0d-b927-34bda51b214c.htm" />
+  <HelpKINode Title="MatrixReaderLib.MatrixRowXml class" Url="html/0baf96dc-bdaf-aac6-7cf9-5d4fc3dab97a.htm" />
+  <HelpKINode Title="MatrixReaderLib.MatrixXml class" Url="html/998dc6bd-d94d-6ce9-143a-e0f7ec3e7b56.htm" />
+  <HelpKINode Title="MatrixReaderLib.TxtMatrixReader class" Url="html/3164fe94-8c27-aecd-ba91-2c7b3e60f1ac.htm" />
+  <HelpKINode Title="MatrixReaderLib.XmlMatrixReader class" Url="html/1b58cabd-db99-06bf-4dde-844ad571e29d.htm" />
+  <HelpKINode Title="MatrixReaderLibTest namespace" Url="html/5781dbfa-000e-8b25-0a99-367850113fae.htm" />
+  <HelpKINode Title="MatrixReaderLibTest.GetMatrixJson class" Url="html/f63fbc89-7315-8e7e-0348-9d1414eced8a.htm" />
+  <HelpKINode Title="MatrixReaderLibTest.MainMatrixReaderLibTest class" Url="html/95b90059-1039-fe08-8eab-f8dec167c829.htm" />
+  <HelpKINode Title="MatrixReaderLibTest.Row class" Url="html/6407ef5e-6c97-bf5a-fa11-8980734e03e4.htm" />
+  <HelpKINode Title="MatrixRow class">
+    <HelpKINode Title="MatrixRow Class" Url="html/7816b1e6-2f22-f87f-46d3-d253caa5c176.htm" />
+    <HelpKINode Title="about MatrixRow class" Url="html/7816b1e6-2f22-f87f-46d3-d253caa5c176.htm" />
+    <HelpKINode Title="constructor" Url="html/b550c5ce-d89e-09f5-d717-40d2dadeca76.htm" />
+    <HelpKINode Title="methods" Url="html/e1235baa-b71f-4f72-acda-5a00beb5ed13.htm" />
+    <HelpKINode Title="operators" Url="html/f4dc85c5-31ba-ab84-4165-a9a768686ebc.htm" />
+    <HelpKINode Title="properties" Url="html/429039b2-ee9b-e225-0687-aa291b3f0021.htm" />
+  </HelpKINode>
+  <HelpKINode Title="MatrixRow.Addition operator" Url="html/68bf2b52-35a4-14c3-be17-7f47f6cb2382.htm" />
+  <HelpKINode Title="MatrixRow.Coefficients property" Url="html/72326670-2216-afb5-067e-7604988efb3b.htm" />
+  <HelpKINode Title="MatrixRow.Equality operator" Url="html/4cfb3955-3697-c17b-e724-50ff3f3918a5.htm" />
+  <HelpKINode Title="MatrixRow.Equals method" Url="html/ee636d31-9b26-cb48-e9fb-dbc6ef09fa29.htm" />
+  <HelpKINode Title="MatrixRow.GetHashCode method" Url="html/89358713-0d47-0b08-5b17-6edfdaf6783f.htm" />
+  <HelpKINode Title="MatrixRow.Inequality operator" Url="html/f1eb4e9a-0506-df37-415b-064c1de422ab.htm" />
+  <HelpKINode Title="MatrixRow.MatrixRow constructor" Url="html/b550c5ce-d89e-09f5-d717-40d2dadeca76.htm" />
+  <HelpKINode Title="MatrixRow.Multiply operator" Url="html/9e321b9d-1ea1-4d4d-b402-edda4261e76d.htm" />
+  <HelpKINode Title="MatrixRow.Result property" Url="html/68992a91-68fe-0e55-60a2-f63cc71c5f73.htm" />
+  <HelpKINode Title="MatrixRow.Subtraction operator" Url="html/1d22ec6d-876e-3637-1a8d-d4c2994c6970.htm" />
+  <HelpKINode Title="MatrixRow.Validate method" Url="html/119e9ede-66f4-9886-eb08-1a96d31d9190.htm" />
+  <HelpKINode Title="MatrixRow.ValidationResult enumeration" Url="html/28733f22-7d3a-baf0-5ca4-9db064c4bf4b.htm" />
+  <HelpKINode Title="MatrixRowJson class">
+    <HelpKINode Title="MatrixRowJson Class" Url="html/1395cf05-1d69-cc0d-b927-34bda51b214c.htm" />
+    <HelpKINode Title="about MatrixRowJson class" Url="html/1395cf05-1d69-cc0d-b927-34bda51b214c.htm" />
+    <HelpKINode Title="constructor" Url="html/10247849-07e4-b0d8-38aa-92a7dd66168f.htm" />
+    <HelpKINode Title="methods" Url="html/b18ad5dd-e049-ce08-25a4-62ba7d6c97e9.htm" />
+    <HelpKINode Title="properties" Url="html/4b614078-6f56-ae7b-ae7b-e916b3152168.htm" />
+  </HelpKINode>
+  <HelpKINode Title="MatrixRowJson.Coefs property" Url="html/935712b1-ad6e-b133-e0a8-84682985c91c.htm" />
+  <HelpKINode Title="MatrixRowJson.MatrixRowJson constructor" Url="html/10247849-07e4-b0d8-38aa-92a7dd66168f.htm" />
+  <HelpKINode Title="MatrixRowJson.Result property" Url="html/6ad8edac-facb-ff24-fe2b-a228565d99bb.htm" />
+  <HelpKINode Title="MatrixRowXml class">
+    <HelpKINode Title="MatrixRowXml Class" Url="html/0baf96dc-bdaf-aac6-7cf9-5d4fc3dab97a.htm" />
+    <HelpKINode Title="about MatrixRowXml class" Url="html/0baf96dc-bdaf-aac6-7cf9-5d4fc3dab97a.htm" />
+    <HelpKINode Title="constructor" Url="html/2b951849-d3c0-4064-cf64-c918eea0a6f1.htm" />
+    <HelpKINode Title="methods" Url="html/a745ef13-860b-39c5-a497-0158f6091745.htm" />
+    <HelpKINode Title="properties" Url="html/30c5b424-0772-2abd-7408-e4aac89e2eca.htm" />
+  </HelpKINode>
+  <HelpKINode Title="MatrixRowXml.Coefs property" Url="html/a0b6a6c7-7b5a-c337-5edb-de60713b9ea5.htm" />
+  <HelpKINode Title="MatrixRowXml.MatrixRowXml constructor" Url="html/2b951849-d3c0-4064-cf64-c918eea0a6f1.htm" />
+  <HelpKINode Title="MatrixRowXml.Result property" Url="html/9c128033-821a-35f6-5aec-6d258ca913ff.htm" />
+  <HelpKINode Title="MatrixXml class">
+    <HelpKINode Title="MatrixXml Class" Url="html/998dc6bd-d94d-6ce9-143a-e0f7ec3e7b56.htm" />
+    <HelpKINode Title="about MatrixXml class" Url="html/998dc6bd-d94d-6ce9-143a-e0f7ec3e7b56.htm" />
+    <HelpKINode Title="constructor" Url="html/e44166a6-7aa6-ee0e-d665-462b9765eb7e.htm" />
+    <HelpKINode Title="methods" Url="html/c5350c31-98e8-d791-d701-05247575a5c2.htm" />
+    <HelpKINode Title="properties" Url="html/479f5437-74da-56da-1004-9561957baf17.htm" />
+  </HelpKINode>
+  <HelpKINode Title="MatrixXml.Height property" Url="html/6ab8b87c-556c-872c-9cb8-e00ff15fa673.htm" />
+  <HelpKINode Title="MatrixXml.MatrixXml constructor" Url="html/e44166a6-7aa6-ee0e-d665-462b9765eb7e.htm" />
+  <HelpKINode Title="MatrixXml.Rows property" Url="html/665fa7db-b15a-7d9f-7420-e8c3eb8217d7.htm" />
+  <HelpKINode Title="MatrixXml.Width property" Url="html/6812dabb-d3f6-d2de-c8bd-6ed5d489546c.htm" />
+  <HelpKINode Title="Max method" Url="html/371a853c-0a2f-0fb2-5786-92e3f330b884.htm" />
+  <HelpKINode Title="Multiply operator">
+    <HelpKINode Title="MatrixRow.Multiply Operator " Url="html/9e321b9d-1ea1-4d4d-b402-edda4261e76d.htm" />
+    <HelpKINode Title="Rational.Multiply Operator " Url="html/98084046-5e45-81aa-49e6-a99330e18142.htm" />
+  </HelpKINode>
+  <HelpKINode Title="None enumeration member" Url="html/bad8965e-73d3-44b0-6e55-a8efcb56923c.htm" />
+  <HelpKINode Title="NoSolution enumeration member" Url="html/28733f22-7d3a-baf0-5ca4-9db064c4bf4b.htm" />
+  <HelpKINode Title="Numerator property" Url="html/ab830b1b-5b51-aa6c-f38d-990305c973e9.htm" />
+  <HelpKINode Title="OK enumeration member" Url="html/28733f22-7d3a-baf0-5ca4-9db064c4bf4b.htm" />
+  <HelpKINode Title="Parse method" Url="html/c3bac21a-319f-0210-06b2-7f8413e83084.htm" />
+  <HelpKINode Title="Rational structure">
+    <HelpKINode Title="Rational Structure" Url="html/ce321d41-4ca6-3c0e-b769-03dc88ba5e52.htm" />
+    <HelpKINode Title="about Rational structure" Url="html/ce321d41-4ca6-3c0e-b769-03dc88ba5e52.htm" />
+    <HelpKINode Title="constructor" Url="html/0a2f7c50-3a69-3669-35ba-88ba713d8a1e.htm" />
+    <HelpKINode Title="methods" Url="html/6f606741-13dc-e0ee-da70-02014a214b87.htm" />
+    <HelpKINode Title="operators and type conversions" Url="html/1f024d37-ccda-4a87-d639-29c01b2bca23.htm" />
+    <HelpKINode Title="properties" Url="html/ea0c43af-06bd-63f8-58f3-7e7a062883a6.htm" />
+  </HelpKINode>
+  <HelpKINode Title="Rational.Addition operator" Url="html/591adc9a-619c-82bb-346a-6637e37226f7.htm" />
+  <HelpKINode Title="Rational.Denominator property" Url="html/a78bd8a4-211d-a178-add9-144c8882db78.htm" />
+  <HelpKINode Title="Rational.Division operator" Url="html/76480ca0-aa9a-3022-0446-83469a045726.htm" />
+  <HelpKINode Title="Rational.Equality operator" Url="html/d4cbd6db-953f-ec8e-6e18-23652a4996c2.htm" />
+  <HelpKINode Title="Rational.Equals method" Url="html/1ff934ec-f95b-c3c7-48bb-095158ec364f.htm" />
+  <HelpKINode Title="Rational.GetHashCode method" Url="html/a708f79b-b22e-59df-ab9d-0d37212cb144.htm" />
+  <HelpKINode Title="Rational.GreaterThan operator" Url="html/e9ac9db5-0cf5-7152-7b61-f2b1d27397e6.htm" />
+  <HelpKINode Title="Rational.Inequality operator" Url="html/158374b2-e0f6-9c6c-5993-31898188b28f.htm" />
+  <HelpKINode Title="Rational.LessThan operator" Url="html/d7a7b94e-4eca-d7c3-a2c3-3bf45cdf39c1.htm" />
+  <HelpKINode Title="Rational.Multiply operator" Url="html/98084046-5e45-81aa-49e6-a99330e18142.htm" />
+  <HelpKINode Title="Rational.Numerator property" Url="html/ab830b1b-5b51-aa6c-f38d-990305c973e9.htm" />
+  <HelpKINode Title="Rational.Parse method" Url="html/c3bac21a-319f-0210-06b2-7f8413e83084.htm" />
+  <HelpKINode Title="Rational.Rational constructor" Url="html/0a2f7c50-3a69-3669-35ba-88ba713d8a1e.htm" />
+  <HelpKINode Title="Rational.Subtraction operator" Url="html/6ba9656e-c519-1d96-aae4-c24d99beb4b5.htm" />
+  <HelpKINode Title="Rational.ToString method" Url="html/00f8bf01-1b85-5186-7ab8-26a6b1c7f058.htm" />
+  <HelpKINode Title="RationalLib namespace" Url="html/c39f5e2f-e9cd-75b3-b5ee-f3d5e239b261.htm" />
+  <HelpKINode Title="RationalLib.Rational structure" Url="html/ce321d41-4ca6-3c0e-b769-03dc88ba5e52.htm" />
+  <HelpKINode Title="RationalLibUnitTest namespace" Url="html/23a9d4eb-41d6-4b57-b203-c0ad19c02e62.htm" />
+  <HelpKINode Title="RationalLibUnitTest.MainRationalTest class" Url="html/6d61ecac-befb-d4a9-a56d-28a82657101d.htm" />
+  <HelpKINode Title="Result field" Url="html/38e8881d-7882-9bc4-29c2-f50a607d58f3.htm" />
+  <HelpKINode Title="Result property">
+    <HelpKINode Title="MatrixRow.Result Property " Url="html/68992a91-68fe-0e55-60a2-f63cc71c5f73.htm" />
+    <HelpKINode Title="MatrixRowJson.Result Property " Url="html/6ad8edac-facb-ff24-fe2b-a228565d99bb.htm" />
+    <HelpKINode Title="MatrixRowXml.Result Property " Url="html/9c128033-821a-35f6-5aec-6d258ca913ff.htm" />
+  </HelpKINode>
+  <HelpKINode Title="Row class">
+    <HelpKINode Title="Row Class" Url="html/6407ef5e-6c97-bf5a-fa11-8980734e03e4.htm" />
+    <HelpKINode Title="about Row class" Url="html/6407ef5e-6c97-bf5a-fa11-8980734e03e4.htm" />
+    <HelpKINode Title="constructor" Url="html/f8a652ea-4b70-9f35-f168-e2638dc160af.htm" />
+    <HelpKINode Title="fields" Url="html/84114dfd-27b7-7c06-a47a-150066d56f03.htm" />
+    <HelpKINode Title="methods" Url="html/e647c168-7055-e429-4d86-aada35da1d6c.htm" />
+  </HelpKINode>
+  <HelpKINode Title="Row.Coefs field" Url="html/32bd4db5-5cf3-a16d-4b8a-472933cb8fa6.htm" />
+  <HelpKINode Title="Row.Result field" Url="html/38e8881d-7882-9bc4-29c2-f50a607d58f3.htm" />
+  <HelpKINode Title="Row.Row constructor" Url="html/f8a652ea-4b70-9f35-f168-e2638dc160af.htm" />
+  <HelpKINode Title="RowCount property" Url="html/8c9b8b02-589e-4210-d8d7-8ee8382c7068.htm" />
+  <HelpKINode Title="Rows field" Url="html/83d4b69d-8e19-7086-b900-5bfd55ac21ae.htm" />
+  <HelpKINode Title="Rows property">
+    <HelpKINode Title="Matrix.Rows Property " Url="html/b4eec1b1-3598-5218-8101-bcdd18a6c380.htm" />
+    <HelpKINode Title="MatrixJson.Rows Property " Url="html/4809e3e4-b324-ac6a-ef45-5f8688458b28.htm" />
+    <HelpKINode Title="MatrixXml.Rows Property " Url="html/665fa7db-b15a-7d9f-7420-e8c3eb8217d7.htm" />
+  </HelpKINode>
+  <HelpKINode Title="Solve method" Url="html/f1eabbdc-67fd-a700-540c-cb44f0c0f567.htm" />
+  <HelpKINode Title="Subtraction operator">
+    <HelpKINode Title="MatrixRow.Subtraction Operator " Url="html/1d22ec6d-876e-3637-1a8d-d4c2994c6970.htm" />
+    <HelpKINode Title="Rational.Subtraction Operator " Url="html/6ba9656e-c519-1d96-aae4-c24d99beb4b5.htm" />
+  </HelpKINode>
+  <HelpKINode Title="TestRationalPrecision method" Url="html/c7b2b82c-4a9a-3c8b-0073-a4f011e5f68d.htm" />
+  <HelpKINode Title="TestRationalPrecisionInt method" Url="html/5ef268f2-c6bb-dd2b-73fa-2454180b7a19.htm" />
+  <HelpKINode Title="Test_BiggerOperatorNegative method" Url="html/c1cfab78-8c0b-5ce0-4ef6-40068ae0126a.htm" />
+  <HelpKINode Title="Test_BiggerOperatorPositive method" Url="html/fff74f54-d26f-30ad-ba34-5ea13ad1e8ec.htm" />
+  <HelpKINode Title="Test_BinMatrixReader_LoadEqualMatrixes method" Url="html/a43cf87a-80b2-9028-8346-5971242291c0.htm" />
+  <HelpKINode Title="Test_BinMatrixReader_ValidateCheckSum_CorrectVersion method" Url="html/d1d329aa-e706-aa3f-d7b8-90a8f69c8143.htm" />
+  <HelpKINode Title="Test_BinMatrixReader_ValidateCheckSum_IncorrectVersion method" Url="html/2f0e1099-fbd2-48be-62e1-8465528c651e.htm" />
+  <HelpKINode Title="Test_BinMatrixReader_ValidateMatrixFooter_CorrectVersion method" Url="html/59160a14-e623-c8fe-c366-35ab89871d29.htm" />
+  <HelpKINode Title="Test_BinMatrixReader_ValidateMatrixFooter_IncorrectVersion method" Url="html/1935c2c0-d015-33b7-488d-c6c613fadfef.htm" />
+  <HelpKINode Title="Test_BinMatrixReader_ValidateMatrixVersion_CorrectVersion_Version1 method" Url="html/e67becf4-3f24-49b4-0ec3-624397a56cf5.htm" />
+  <HelpKINode Title="Test_BinMatrixReader_ValidateMatrixVersion_CorrectVersion_Version2 method" Url="html/3eadca32-517e-c56b-1e03-1f05d014184f.htm" />
+  <HelpKINode Title="Test_BinMatrixReader_ValidateMatrixVersion_IncorrectVersion method" Url="html/4e7ec544-16c1-fe7b-b90a-79876b06e0f1.htm" />
+  <HelpKINode Title="Test_BinMatrixReader_ValidateRowFooter_CorrectVersion method" Url="html/46975d7f-5d4b-4c91-b9d2-c08f51e9db5e.htm" />
+  <HelpKINode Title="Test_BinMatrixReader_ValidateRowFooter_IncorrectVersion method" Url="html/8d8031e4-ed2e-5637-76b6-69e0b4aa4615.htm" />
+  <HelpKINode Title="Test_ClearUnwantedCoefficients method" Url="html/70034cae-4c62-c7e5-d782-8121452dcb43.htm" />
+  <HelpKINode Title="Test_CompareOperatorPositive method" Url="html/bb72e8e8-9bff-2990-6bab-1138bbb1682a.htm" />
+  <HelpKINode Title="Test_DivisionOperatorNegative method" Url="html/bec9ecba-01ae-98fa-674b-498fcb02fc6e.htm" />
+  <HelpKINode Title="Test_DivisionOperatorPositive method" Url="html/dbdcdae3-5ccf-c3ec-6e16-2dccbbe6a2f6.htm" />
+  <HelpKINode Title="Test_EqualOperatorNegative method" Url="html/8fd2a60a-0ab6-99fe-ae1a-91acb064df07.htm" />
+  <HelpKINode Title="Test_GetDigitsAmount_FiveDigitNumber method" Url="html/6fff1525-9740-ae81-1c2a-5a7d74fae830.htm" />
+  <HelpKINode Title="Test_GetHighestCommonDividor method" Url="html/15d40ffb-095e-3615-e1f6-c4037cef7cba.htm" />
+  <HelpKINode Title="Test_GetListOfCommonPartialDividors method" Url="html/3ab7110e-fb9c-e2f2-c068-48626ad58e56.htm" />
+  <HelpKINode Title="Test_GetPartialDividors method" Url="html/d139e143-d9ad-b38d-66df-b52aff26f55e.htm" />
+  <HelpKINode Title="Test_GetSmallestCommonMultiple_TwoPrimeNumbers method" Url="html/8a9fd36d-4f29-c849-2832-029a694dc190.htm" />
+  <HelpKINode Title="Test_GetSmallestCommonMultiple_TwoSplittableNumbers method" Url="html/e8e5632e-70f2-78b3-4606-4ed796cda57d.htm" />
+  <HelpKINode Title="Test_JsonMatrixReader_Load method" Url="html/43cfcbf5-1d73-cefb-09f2-bee97458f454.htm" />
+  <HelpKINode Title="Test_MatrixLoad_MissingNumber method" Url="html/1f60b3df-cb91-3c3a-5169-23a66315e4b7.htm" />
+  <HelpKINode Title="Test_MatrixLoad_WrongFormat method" Url="html/0beeab95-289e-0724-231b-caeff5dfc4e3.htm" />
+  <HelpKINode Title="Test_MatrixValidate_MissingOneCoefficient method" Url="html/381ae298-d201-22c6-c5b2-c2031e3391c4.htm" />
+  <HelpKINode Title="Test_MatrixValidate_MissingOneRow method" Url="html/b6b31a47-5ffd-679b-dc82-1f345a37be57.htm" />
+  <HelpKINode Title="Test_MinusOperatorNegative method" Url="html/25e2fbc5-4bfc-f812-79c0-3c688120eefd.htm" />
+  <HelpKINode Title="Test_MinusOperatorPositive method" Url="html/95adf660-7fe9-f22e-1488-455981471ba9.htm" />
+  <HelpKINode Title="Test_MulOperatorNegative method" Url="html/edc90869-4860-337c-3cea-9c8333d6cda4.htm" />
+  <HelpKINode Title="Test_MulOperatorPositive method" Url="html/78622e36-1fe3-a7a5-5c18-3f11d1915321.htm" />
+  <HelpKINode Title="Test_PlusOperatorNegative method" Url="html/57a12d02-a5d3-be0b-a285-5b1daca2027b.htm" />
+  <HelpKINode Title="Test_PlusOperatorPositive method" Url="html/a675cca7-fb58-798c-358d-b2d77b413480.htm" />
+  <HelpKINode Title="Test_SmallerOperatorNegative method" Url="html/c5012c5f-0a59-68b7-c8c5-9a4453948b66.htm" />
+  <HelpKINode Title="Test_SmallerOperatorPositive method" Url="html/a7b42f90-8fe8-5df6-8adb-36f785cf82b9.htm" />
+  <HelpKINode Title="Test_SolveMethodWithListOfRandomMatrixes method" Url="html/cd539a55-3d60-b24b-d1bf-ff0de0f482fe.htm" />
+  <HelpKINode Title="Test_SolveMethodWithSingleRandomMatrix method" Url="html/d8f9e3a1-b278-0cbb-03dc-17da84066267.htm" />
+  <HelpKINode Title="Test_TxtMatrixReader_LoadDifferentMatrixes method" Url="html/a319b679-e9db-0c58-0890-163f1db441e9.htm" />
+  <HelpKINode Title="Test_TxtMatrixReader_LoadEqualMatrixes method" Url="html/061aac04-c162-8127-b5df-725be3e5d1a6.htm" />
+  <HelpKINode Title="Test_UnequalOperatorNegative method" Url="html/9b74b8b9-fc2f-d1dc-56da-865e7e73ba2e.htm" />
+  <HelpKINode Title="Test_UnequalOperatorPositive method" Url="html/78dd4b6c-6cd5-3ccd-7caf-59fee9593815.htm" />
+  <HelpKINode Title="Test_XmlMatrixReader_Load method" Url="html/c814f6dc-dbd1-f47a-68ba-77612bc5e092.htm" />
+  <HelpKINode Title="ToString method">
+    <HelpKINode Title="Matrix.ToString Method " Url="html/2aff8897-1b98-2fd0-39f9-a94529a37bb6.htm" />
+    <HelpKINode Title="Rational.ToString Method " Url="html/00f8bf01-1b85-5186-7ab8-26a6b1c7f058.htm" />
+  </HelpKINode>
+  <HelpKINode Title="TxtMatrixReader class">
+    <HelpKINode Title="TxtMatrixReader Class" Url="html/3164fe94-8c27-aecd-ba91-2c7b3e60f1ac.htm" />
+    <HelpKINode Title="about TxtMatrixReader class" Url="html/3164fe94-8c27-aecd-ba91-2c7b3e60f1ac.htm" />
+    <HelpKINode Title="constructor" Url="html/b6d09f6a-16ec-7256-93f1-2ed374cfdfaa.htm" />
+    <HelpKINode Title="methods" Url="html/a0539afa-88ec-b854-dad0-b2dbcaa63a92.htm" />
+  </HelpKINode>
+  <HelpKINode Title="TxtMatrixReader.Load method" Url="html/7f4ad277-f7d2-1c18-dd2e-df90621f026a.htm" />
+  <HelpKINode Title="TxtMatrixReader.TxtMatrixReader constructor" Url="html/b6d09f6a-16ec-7256-93f1-2ed374cfdfaa.htm" />
+  <HelpKINode Title="TxtToString method" Url="html/9113d3ee-e302-e70a-17d0-98bd12c702be.htm" />
+  <HelpKINode Title="Utils class">
+    <HelpKINode Title="Utils Class" Url="html/01f76b27-b87a-059c-cba0-4e8159a0a4ce.htm" />
+    <HelpKINode Title="about Utils class" Url="html/01f76b27-b87a-059c-cba0-4e8159a0a4ce.htm" />
+    <HelpKINode Title="methods" Url="html/def49f98-44a1-ac32-b45e-941029cca8f9.htm" />
+  </HelpKINode>
+  <HelpKINode Title="Utils.Abreviate method" Url="html/33203292-080a-d78a-cb59-6e8b973888b7.htm" />
+  <HelpKINode Title="Utils.AddBytesToInt16 method" Url="html/9882793a-41e8-db2a-25eb-5cb30f22de9d.htm" />
+  <HelpKINode Title="Utils.DeepClone(Of T) method" Url="html/4b3a34d7-0386-63a0-83dc-d6858dbe69ec.htm" />
+  <HelpKINode Title="Utils.DeepClone2 method" Url="html/c81abbf2-2f7b-0822-0a87-9b8b0491c9db.htm" />
+  <HelpKINode Title="Utils.DeepClone&lt;T&gt; method" Url="html/4b3a34d7-0386-63a0-83dc-d6858dbe69ec.htm" />
+  <HelpKINode Title="Utils.DoubleArrayToString method" Url="html/46904c7f-66e9-54df-3fd9-4bf89218bf59.htm" />
+  <HelpKINode Title="Utils.GetDigitsAmount method" Url="html/1bf20a89-398c-5eef-8849-9e76da0733ec.htm" />
+  <HelpKINode Title="Utils.GetHighestCommonDividor method" Url="html/4aa94b12-88a2-78e0-121e-d43ac01b0129.htm" />
+  <HelpKINode Title="Utils.GetListOfCommonPartialDividors method" Url="html/a7651264-8985-232e-54eb-1e56af26c25c.htm" />
+  <HelpKINode Title="Utils.GetPartialDividors method" Url="html/8fb97c4f-6d8b-1f3b-04d4-82362ddaaf69.htm" />
+  <HelpKINode Title="Utils.GetSmallestCommonMultiple method" Url="html/8a3323ca-b7a4-f430-057d-2156622108be.htm" />
+  <HelpKINode Title="Utils.Max method" Url="html/371a853c-0a2f-0fb2-5786-92e3f330b884.htm" />
+  <HelpKINode Title="Utils.TxtToString method" Url="html/9113d3ee-e302-e70a-17d0-98bd12c702be.htm" />
+  <HelpKINode Title="Validate method">
+    <HelpKINode Title="Matrix.Validate Method " Url="html/ed44fbc9-e547-5de9-3c9e-3b9e96eea500.htm" />
+    <HelpKINode Title="MatrixRow.Validate Method " Url="html/119e9ede-66f4-9886-eb08-1a96d31d9190.htm" />
+  </HelpKINode>
+  <HelpKINode Title="Verify method" Url="html/0197f592-f1aa-27f4-fd81-9a1fbc87772a.htm" />
+  <HelpKINode Title="Width field" Url="html/44020163-d172-ae46-9b52-aa74aaee87b0.htm" />
+  <HelpKINode Title="Width property">
+    <HelpKINode Title="MatrixJson.Width Property " Url="html/5208dc04-ecb8-e939-7e91-792f8766a89a.htm" />
+    <HelpKINode Title="MatrixXml.Width Property " Url="html/6812dabb-d3f6-d2de-c8bd-6ed5d489546c.htm" />
+  </HelpKINode>
+  <HelpKINode Title="XmlMatrixReader class">
+    <HelpKINode Title="XmlMatrixReader Class" Url="html/1b58cabd-db99-06bf-4dde-844ad571e29d.htm" />
+    <HelpKINode Title="about XmlMatrixReader class" Url="html/1b58cabd-db99-06bf-4dde-844ad571e29d.htm" />
+    <HelpKINode Title="constructor" Url="html/23522fab-4dfe-37a8-614b-0b7c5a4ff82e.htm" />
+    <HelpKINode Title="methods" Url="html/72b021bf-54e9-76c0-cd74-ec204b38d497.htm" />
+  </HelpKINode>
+  <HelpKINode Title="XmlMatrixReader.Load method" Url="html/71cdc5ec-f9b7-4914-f297-139ba0be1f96.htm" />
+  <HelpKINode Title="XmlMatrixReader.XmlMatrixReader constructor" Url="html/23522fab-4dfe-37a8-614b-0b7c5a4ff82e.htm" />
+</HelpKI>

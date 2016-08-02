@@ -1,0 +1,265 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<HelpTOC>
+
+  <HelpTOCNode Id="8be7a894-a737-4ec6-9665-360031721946" Title="Common" Url="html/350a98f3-3050-4548-af39-4fab96d71ecc.htm">
+    <HelpTOCNode Id="cc0a4659-c334-4b86-b925-b5ffb4e04fd1" Title="Utils Class" Url="html/01f76b27-b87a-059c-cba0-4e8159a0a4ce.htm">
+      <HelpTOCNode Id="a39099f2-baee-4649-b888-77ad75373105" Title="Utils Methods" Url="html/def49f98-44a1-ac32-b45e-941029cca8f9.htm">
+        <HelpTOCNode Title="Abreviate Method " Url="html/33203292-080a-d78a-cb59-6e8b973888b7.htm" />
+        <HelpTOCNode Title="AddBytesToInt16 Method " Url="html/9882793a-41e8-db2a-25eb-5cb30f22de9d.htm" />
+        <HelpTOCNode Title="DeepClone(T) Method " Url="html/4b3a34d7-0386-63a0-83dc-d6858dbe69ec.htm" />
+        <HelpTOCNode Title="DeepClone2 Method " Url="html/c81abbf2-2f7b-0822-0a87-9b8b0491c9db.htm" />
+        <HelpTOCNode Title="DoubleArrayToString Method " Url="html/46904c7f-66e9-54df-3fd9-4bf89218bf59.htm" />
+        <HelpTOCNode Title="GetDigitsAmount Method " Url="html/1bf20a89-398c-5eef-8849-9e76da0733ec.htm" />
+        <HelpTOCNode Title="GetHighestCommonDividor Method " Url="html/4aa94b12-88a2-78e0-121e-d43ac01b0129.htm" />
+        <HelpTOCNode Title="GetListOfCommonPartialDividors Method " Url="html/a7651264-8985-232e-54eb-1e56af26c25c.htm" />
+        <HelpTOCNode Title="GetPartialDividors Method " Url="html/8fb97c4f-6d8b-1f3b-04d4-82362ddaaf69.htm" />
+        <HelpTOCNode Title="GetSmallestCommonMultiple Method " Url="html/8a3323ca-b7a4-f430-057d-2156622108be.htm" />
+        <HelpTOCNode Id="62cdb6de-ad87-4ce2-8748-a841c82121a1" Title="Max Method " Url="html/371a853c-0a2f-0fb2-5786-92e3f330b884.htm">
+          <HelpTOCNode Title="Max Method (Double, Double)" Url="html/6c41e282-195e-924c-f6b0-2339f4d2e4b0.htm" />
+          <HelpTOCNode Title="Max Method (Int32, Int32)" Url="html/f3ad7894-02f7-8778-ece9-1da03b5b93ed.htm" />
+          <HelpTOCNode Title="Max(T) Method (T, T)" Url="html/d60faa49-5bf4-45e3-7e7a-db7e52715089.htm" />
+        </HelpTOCNode>
+        <HelpTOCNode Title="TxtToString Method " Url="html/9113d3ee-e302-e70a-17d0-98bd12c702be.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+  </HelpTOCNode>
+  <HelpTOCNode Id="8ee353f7-e991-4688-a609-40080e0cdaac" Title="MatrixCalculator" Url="html/a068b994-c998-1d6f-94b7-4c8a2807730b.htm">
+    <HelpTOCNode Id="cc055d81-c731-4ce1-8c80-837460ce10b0" Title="MatrixFileNotCompleteException Class" Url="html/dbe2ca30-a96d-59a5-dbdf-db933016ee30.htm">
+      <HelpTOCNode Title="MatrixFileNotCompleteException Constructor " Url="html/ac20eae4-a1b8-691f-e917-7ed18709c727.htm" />
+      <HelpTOCNode Title="MatrixFileNotCompleteException Methods" Url="html/64a50c0d-e252-73f9-8f60-7dc324a5bbe1.htm" />
+      <HelpTOCNode Title="MatrixFileNotCompleteException Properties" Url="html/22fc32cb-5773-6592-d11e-340eedf6566c.htm" />
+      <HelpTOCNode Title="MatrixFileNotCompleteException Events" Url="html/5ad9465e-17b2-d2cb-fbd4-ea02f0a9b97f.htm" />
+    </HelpTOCNode>
+    <HelpTOCNode Id="3e94321a-8d50-4adc-827c-1ecd707de30d" Title="MatrixHasInfiniteSolutionsException Class" Url="html/adfd1bd4-ad94-81b9-280e-25b4ab891c57.htm">
+      <HelpTOCNode Title="MatrixHasInfiniteSolutionsException Constructor " Url="html/61f5fcfb-907c-f2f2-2c53-01aa3da7bf99.htm" />
+      <HelpTOCNode Title="MatrixHasInfiniteSolutionsException Methods" Url="html/9aef7e43-9157-fe47-7c16-1425dd7af469.htm" />
+      <HelpTOCNode Title="MatrixHasInfiniteSolutionsException Properties" Url="html/9d0f4489-8026-8086-410e-2c3aafa6d0f1.htm" />
+      <HelpTOCNode Title="MatrixHasInfiniteSolutionsException Events" Url="html/eaa7f083-e853-2345-9f7e-2d134e1b43af.htm" />
+    </HelpTOCNode>
+    <HelpTOCNode Id="e23bce5b-778b-42d6-82db-5070e500dcb8" Title="MatrixHasNoSolutionException Class" Url="html/0ce2d66a-2135-1710-b4fb-5279fe8ed95c.htm">
+      <HelpTOCNode Title="MatrixHasNoSolutionException Constructor " Url="html/176fabb8-fc29-deda-f82c-e5cfabc2faea.htm" />
+      <HelpTOCNode Title="MatrixHasNoSolutionException Methods" Url="html/2c362469-d4a0-9d15-4673-0f346210daf3.htm" />
+      <HelpTOCNode Title="MatrixHasNoSolutionException Properties" Url="html/8a3a3df8-0df6-1a0d-3d9b-76dee77bf00f.htm" />
+      <HelpTOCNode Title="MatrixHasNoSolutionException Events" Url="html/431b739c-1382-4630-972e-7cfd27e7816a.htm" />
+    </HelpTOCNode>
+  </HelpTOCNode>
+  <HelpTOCNode Id="2d605fc6-5a71-421d-830d-25d178f262b3" Title="MatrixLib" Url="html/740e708b-482f-6727-ece6-17a325d1e3ae.htm">
+    <HelpTOCNode Id="b10492f3-2d83-42c2-9fd1-db9267b519ad" Title="Matrix Class" Url="html/12a05c80-32e7-dc0b-0270-e22d73da0150.htm">
+      <HelpTOCNode Title="Matrix Constructor " Url="html/3e448e1e-2795-8ec6-8887-9f89b0f736f6.htm" />
+      <HelpTOCNode Id="2c3adc49-dc8b-4825-8a87-b34add09801d" Title="Matrix Methods" Url="html/f2171d09-83d1-2aa8-2fdc-f2982e6eb69c.htm">
+        <HelpTOCNode Title="ClearUnwantedCoefficients Method " Url="html/47750cc8-4a25-adaf-9ce1-dc8b07b13929.htm" />
+        <HelpTOCNode Title="Equals Method " Url="html/0ff4c2e0-30ea-2d1a-33eb-66206bc85cd1.htm" />
+        <HelpTOCNode Title="GetHashCode Method " Url="html/6ab480f2-d194-58e6-ecd0-4e13767e9901.htm" />
+        <HelpTOCNode Title="Solve Method " Url="html/f1eabbdc-67fd-a700-540c-cb44f0c0f567.htm" />
+        <HelpTOCNode Title="ToString Method " Url="html/2aff8897-1b98-2fd0-39f9-a94529a37bb6.htm" />
+        <HelpTOCNode Title="Validate Method " Url="html/ed44fbc9-e547-5de9-3c9e-3b9e96eea500.htm" />
+        <HelpTOCNode Title="Verify Method " Url="html/0197f592-f1aa-27f4-fd81-9a1fbc87772a.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="bc77c952-7e1a-42c4-ab49-03ff5bdd9c11" Title="Matrix Properties" Url="html/8c9445a7-c75a-a554-bd42-7a84cfcbeace.htm">
+        <HelpTOCNode Title="ColumnCount Property " Url="html/38ea0d42-514b-afa7-2bb2-12af4e276fa2.htm" />
+        <HelpTOCNode Title="ComputeHistory Property " Url="html/147d93e3-c3a3-9016-7f31-f260472e5bb7.htm" />
+        <HelpTOCNode Title="RowCount Property " Url="html/8c9b8b02-589e-4210-d8d7-8ee8382c7068.htm" />
+        <HelpTOCNode Title="Rows Property " Url="html/b4eec1b1-3598-5218-8101-bcdd18a6c380.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Title="Matrix.MatrixResult Enumeration" Url="html/bad8965e-73d3-44b0-6e55-a8efcb56923c.htm" />
+    <HelpTOCNode Id="8559f533-89d5-4a37-ae89-4b132fe00460" Title="MatrixRow Class" Url="html/7816b1e6-2f22-f87f-46d3-d253caa5c176.htm">
+      <HelpTOCNode Title="MatrixRow Constructor " Url="html/b550c5ce-d89e-09f5-d717-40d2dadeca76.htm" />
+      <HelpTOCNode Id="a9e01649-0859-4b70-8a60-2d51a97ca611" Title="MatrixRow Methods" Url="html/e1235baa-b71f-4f72-acda-5a00beb5ed13.htm">
+        <HelpTOCNode Title="Equals Method " Url="html/ee636d31-9b26-cb48-e9fb-dbc6ef09fa29.htm" />
+        <HelpTOCNode Title="GetHashCode Method " Url="html/89358713-0d47-0b08-5b17-6edfdaf6783f.htm" />
+        <HelpTOCNode Title="Validate Method " Url="html/119e9ede-66f4-9886-eb08-1a96d31d9190.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="0762b7dc-bb58-47d5-a8ac-d1b173c8be15" Title="MatrixRow Operators" Url="html/f4dc85c5-31ba-ab84-4165-a9a768686ebc.htm">
+        <HelpTOCNode Title="Addition Operator " Url="html/68bf2b52-35a4-14c3-be17-7f47f6cb2382.htm" />
+        <HelpTOCNode Title="Equality Operator " Url="html/4cfb3955-3697-c17b-e724-50ff3f3918a5.htm" />
+        <HelpTOCNode Title="Inequality Operator " Url="html/f1eb4e9a-0506-df37-415b-064c1de422ab.htm" />
+        <HelpTOCNode Title="Multiply Operator " Url="html/9e321b9d-1ea1-4d4d-b402-edda4261e76d.htm" />
+        <HelpTOCNode Title="Subtraction Operator " Url="html/1d22ec6d-876e-3637-1a8d-d4c2994c6970.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="5bad9cb6-1b54-4b7b-88bf-63a858d9f956" Title="MatrixRow Properties" Url="html/429039b2-ee9b-e225-0687-aa291b3f0021.htm">
+        <HelpTOCNode Title="Coefficients Property " Url="html/72326670-2216-afb5-067e-7604988efb3b.htm" />
+        <HelpTOCNode Title="Result Property " Url="html/68992a91-68fe-0e55-60a2-f63cc71c5f73.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Title="MatrixRow.ValidationResult Enumeration" Url="html/28733f22-7d3a-baf0-5ca4-9db064c4bf4b.htm" />
+  </HelpTOCNode>
+  <HelpTOCNode Id="33bce6f5-a8cb-4fe3-8f96-4736329d6e8d" Title="MatrixLibUnitTest" Url="html/cd60d98a-47e6-65d8-465c-162d2b5b1322.htm">
+    <HelpTOCNode Id="ddfda5fd-606e-4030-8d27-0698ba567f6b" Title="MainMatrixTest Class" Url="html/96e1cddb-9374-3631-c4c3-1e22e01c5a9f.htm">
+      <HelpTOCNode Title="MainMatrixTest Constructor " Url="html/2094ed02-6b00-ab5f-f463-e5c44f5b4ed5.htm" />
+      <HelpTOCNode Id="85c02728-9ce0-46a0-954e-a4b6fee0a424" Title="MainMatrixTest Methods" Url="html/e505f742-e4d0-eb68-ec2a-9b444f33f980.htm">
+        <HelpTOCNode Title="Test_ClearUnwantedCoefficients Method " Url="html/70034cae-4c62-c7e5-d782-8121452dcb43.htm" />
+        <HelpTOCNode Title="Test_MatrixValidate_MissingOneCoefficient Method " Url="html/381ae298-d201-22c6-c5b2-c2031e3391c4.htm" />
+        <HelpTOCNode Title="Test_MatrixValidate_MissingOneRow Method " Url="html/b6b31a47-5ffd-679b-dc82-1f345a37be57.htm" />
+        <HelpTOCNode Title="Test_SolveMethodWithListOfRandomMatrixes Method " Url="html/cd539a55-3d60-b24b-d1bf-ff0de0f482fe.htm" />
+        <HelpTOCNode Title="Test_SolveMethodWithSingleRandomMatrix Method " Url="html/d8f9e3a1-b278-0cbb-03dc-17da84066267.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+  </HelpTOCNode>
+  <HelpTOCNode Id="b0182103-b185-49b0-8942-8c3d198d5e06" Title="MatrixReaderLib" Url="html/c9015606-66cd-f601-7829-410f1c55b968.htm">
+    <HelpTOCNode Id="654d5d53-c738-4484-b6ac-4b3e66c8ee04" Title="BinMatrixReader Class" Url="html/a141d3e3-2fa5-eb1f-b73d-a0a841f7aff2.htm">
+      <HelpTOCNode Title="BinMatrixReader Constructor " Url="html/4927df7f-a94f-334b-8a12-306945d77550.htm" />
+      <HelpTOCNode Id="acafcaf8-ec4a-49bc-b4ed-3a534c08d536" Title="BinMatrixReader Methods" Url="html/b119a27f-47c6-82a5-c005-2b994327f307.htm">
+        <HelpTOCNode Title="Load Method " Url="html/6685a7f2-f763-8e9a-3544-ab2baa047940.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="3e8057fc-25d3-447e-87b0-44a11690caa6" Title="JsonMatrixReader Class" Url="html/14c033e7-9446-76e0-5570-1e0f912773a6.htm">
+      <HelpTOCNode Title="JsonMatrixReader Constructor " Url="html/bfec9a72-6785-5f0d-48ef-8f90dc2d2227.htm" />
+      <HelpTOCNode Id="bae0fd5a-147d-4759-8348-edc465699c94" Title="JsonMatrixReader Methods" Url="html/1eea2a33-563c-cc26-c77b-6fd1cb2416b9.htm">
+        <HelpTOCNode Title="Load Method " Url="html/4a0efd75-0a63-618c-e0d7-568c267e4fa2.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="a7391ec7-4c88-4c6c-b61e-05188d1e3369" Title="Loader Class" Url="html/aed3ff77-0d9a-5a71-5459-c45202ce583d.htm">
+      <HelpTOCNode Title="Loader Constructor " Url="html/695fa515-4a91-dc51-303b-f2a44950df1c.htm" />
+      <HelpTOCNode Id="cf1b64f9-50b3-4acc-b3f9-432f6d058718" Title="Loader Methods" Url="html/e7e76ab5-89dd-90c4-a3fd-6ef463540235.htm">
+        <HelpTOCNode Title="Load Method " Url="html/f4358465-0bdc-ab1a-fe69-79c3141e1c01.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="0dd1f093-3005-4f24-a279-ff6eccad1ad1" Title="MatrixJson Class" Url="html/63f7a590-6e71-b35a-b05e-f9dd712d94b3.htm">
+      <HelpTOCNode Title="MatrixJson Constructor " Url="html/2057365e-bd58-e251-3b30-9e13d5b53e3f.htm" />
+      <HelpTOCNode Title="MatrixJson Methods" Url="html/8bb7fa9c-7637-265b-4cf1-c9e24f459715.htm" />
+      <HelpTOCNode Id="06c5ecbd-f3d5-4637-ba09-b4e83321f3b0" Title="MatrixJson Properties" Url="html/161c99f7-a63b-60d0-f9a2-44981b46b8c6.htm">
+        <HelpTOCNode Title="Height Property " Url="html/9946a490-e951-5d3b-db6e-0af2e7389f1d.htm" />
+        <HelpTOCNode Title="Rows Property " Url="html/4809e3e4-b324-ac6a-ef45-5f8688458b28.htm" />
+        <HelpTOCNode Title="Width Property " Url="html/5208dc04-ecb8-e939-7e91-792f8766a89a.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="c3360d30-c17f-4494-878e-0494c4ba8f67" Title="MatrixRowJson Class" Url="html/1395cf05-1d69-cc0d-b927-34bda51b214c.htm">
+      <HelpTOCNode Title="MatrixRowJson Constructor " Url="html/10247849-07e4-b0d8-38aa-92a7dd66168f.htm" />
+      <HelpTOCNode Title="MatrixRowJson Methods" Url="html/b18ad5dd-e049-ce08-25a4-62ba7d6c97e9.htm" />
+      <HelpTOCNode Id="8a895a5a-e63c-4368-bfd3-6737457f7744" Title="MatrixRowJson Properties" Url="html/4b614078-6f56-ae7b-ae7b-e916b3152168.htm">
+        <HelpTOCNode Title="Coefs Property " Url="html/935712b1-ad6e-b133-e0a8-84682985c91c.htm" />
+        <HelpTOCNode Title="Result Property " Url="html/6ad8edac-facb-ff24-fe2b-a228565d99bb.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="ad571130-b220-4fc5-a979-b2c84b13d14f" Title="MatrixRowXml Class" Url="html/0baf96dc-bdaf-aac6-7cf9-5d4fc3dab97a.htm">
+      <HelpTOCNode Title="MatrixRowXml Constructor " Url="html/2b951849-d3c0-4064-cf64-c918eea0a6f1.htm" />
+      <HelpTOCNode Title="MatrixRowXml Methods" Url="html/a745ef13-860b-39c5-a497-0158f6091745.htm" />
+      <HelpTOCNode Id="c1724054-d6e2-41f4-8600-3720e3c391b8" Title="MatrixRowXml Properties" Url="html/30c5b424-0772-2abd-7408-e4aac89e2eca.htm">
+        <HelpTOCNode Title="Coefs Property " Url="html/a0b6a6c7-7b5a-c337-5edb-de60713b9ea5.htm" />
+        <HelpTOCNode Title="Result Property " Url="html/9c128033-821a-35f6-5aec-6d258ca913ff.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="5900c0df-e373-46d1-abce-5be8100ef276" Title="MatrixXml Class" Url="html/998dc6bd-d94d-6ce9-143a-e0f7ec3e7b56.htm">
+      <HelpTOCNode Title="MatrixXml Constructor " Url="html/e44166a6-7aa6-ee0e-d665-462b9765eb7e.htm" />
+      <HelpTOCNode Title="MatrixXml Methods" Url="html/c5350c31-98e8-d791-d701-05247575a5c2.htm" />
+      <HelpTOCNode Id="da9505d0-6851-4a59-81be-ffb492246561" Title="MatrixXml Properties" Url="html/479f5437-74da-56da-1004-9561957baf17.htm">
+        <HelpTOCNode Title="Height Property " Url="html/6ab8b87c-556c-872c-9cb8-e00ff15fa673.htm" />
+        <HelpTOCNode Title="Rows Property " Url="html/665fa7db-b15a-7d9f-7420-e8c3eb8217d7.htm" />
+        <HelpTOCNode Title="Width Property " Url="html/6812dabb-d3f6-d2de-c8bd-6ed5d489546c.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="c06d16f3-5627-4b00-9e8c-c0d78ef9fa1e" Title="TxtMatrixReader Class" Url="html/3164fe94-8c27-aecd-ba91-2c7b3e60f1ac.htm">
+      <HelpTOCNode Title="TxtMatrixReader Constructor " Url="html/b6d09f6a-16ec-7256-93f1-2ed374cfdfaa.htm" />
+      <HelpTOCNode Id="c7153a01-c210-4c1a-97a8-fa296b1b6657" Title="TxtMatrixReader Methods" Url="html/a0539afa-88ec-b854-dad0-b2dbcaa63a92.htm">
+        <HelpTOCNode Title="Load Method " Url="html/7f4ad277-f7d2-1c18-dd2e-df90621f026a.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="2dd13909-d620-4137-9c6e-f90c98ec9a55" Title="XmlMatrixReader Class" Url="html/1b58cabd-db99-06bf-4dde-844ad571e29d.htm">
+      <HelpTOCNode Title="XmlMatrixReader Constructor " Url="html/23522fab-4dfe-37a8-614b-0b7c5a4ff82e.htm" />
+      <HelpTOCNode Id="e5110885-3eb8-4a78-a7f5-597b1936a042" Title="XmlMatrixReader Methods" Url="html/72b021bf-54e9-76c0-cd74-ec204b38d497.htm">
+        <HelpTOCNode Title="Load Method " Url="html/71cdc5ec-f9b7-4914-f297-139ba0be1f96.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+  </HelpTOCNode>
+  <HelpTOCNode Id="cbec300d-dba9-4895-b96a-c6403cecd8ae" Title="MatrixReaderLibTest" Url="html/5781dbfa-000e-8b25-0a99-367850113fae.htm">
+    <HelpTOCNode Id="ed0646cf-6537-4844-a41a-0f864b255a11" Title="GetMatrixJson Class" Url="html/f63fbc89-7315-8e7e-0348-9d1414eced8a.htm">
+      <HelpTOCNode Title="GetMatrixJson Constructor " Url="html/4139eadf-5bd2-c972-a55e-ffaacd921992.htm" />
+      <HelpTOCNode Id="1d149da6-08eb-47ca-ac4d-0c687cb0e2d4" Title="GetMatrixJson Fields" Url="html/dd071ac8-80de-8a2e-5682-4d879984b2f7.htm">
+        <HelpTOCNode Title="Height Field" Url="html/243731c8-cadf-6588-4c6c-a2cd6ad585f0.htm" />
+        <HelpTOCNode Title="Rows Field" Url="html/83d4b69d-8e19-7086-b900-5bfd55ac21ae.htm" />
+        <HelpTOCNode Title="Width Field" Url="html/44020163-d172-ae46-9b52-aa74aaee87b0.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Title="GetMatrixJson Methods" Url="html/41c1c3c3-3f69-fcf8-f9aa-6025794edb54.htm" />
+    </HelpTOCNode>
+    <HelpTOCNode Id="4deb8fc2-48b6-4d85-a291-5443f93be3d8" Title="MainMatrixReaderLibTest Class" Url="html/95b90059-1039-fe08-8eab-f8dec167c829.htm">
+      <HelpTOCNode Title="MainMatrixReaderLibTest Constructor " Url="html/416a8a38-211c-8226-9651-7c60c4964ad4.htm" />
+      <HelpTOCNode Id="d4e0e6ce-a62b-4e1b-93bc-57994009069a" Title="MainMatrixReaderLibTest Methods" Url="html/c7d0ade7-7dc2-4d87-b572-3a5bc580a58d.htm">
+        <HelpTOCNode Title="Test_BinMatrixReader_LoadEqualMatrixes Method " Url="html/a43cf87a-80b2-9028-8346-5971242291c0.htm" />
+        <HelpTOCNode Title="Test_BinMatrixReader_ValidateCheckSum_CorrectVersion Method " Url="html/d1d329aa-e706-aa3f-d7b8-90a8f69c8143.htm" />
+        <HelpTOCNode Title="Test_BinMatrixReader_ValidateCheckSum_IncorrectVersion Method " Url="html/2f0e1099-fbd2-48be-62e1-8465528c651e.htm" />
+        <HelpTOCNode Title="Test_BinMatrixReader_ValidateMatrixFooter_CorrectVersion Method " Url="html/59160a14-e623-c8fe-c366-35ab89871d29.htm" />
+        <HelpTOCNode Title="Test_BinMatrixReader_ValidateMatrixFooter_IncorrectVersion Method " Url="html/1935c2c0-d015-33b7-488d-c6c613fadfef.htm" />
+        <HelpTOCNode Title="Test_BinMatrixReader_ValidateMatrixVersion_CorrectVersion_Version1 Method " Url="html/e67becf4-3f24-49b4-0ec3-624397a56cf5.htm" />
+        <HelpTOCNode Title="Test_BinMatrixReader_ValidateMatrixVersion_CorrectVersion_Version2 Method " Url="html/3eadca32-517e-c56b-1e03-1f05d014184f.htm" />
+        <HelpTOCNode Title="Test_BinMatrixReader_ValidateMatrixVersion_IncorrectVersion Method " Url="html/4e7ec544-16c1-fe7b-b90a-79876b06e0f1.htm" />
+        <HelpTOCNode Title="Test_BinMatrixReader_ValidateRowFooter_CorrectVersion Method " Url="html/46975d7f-5d4b-4c91-b9d2-c08f51e9db5e.htm" />
+        <HelpTOCNode Title="Test_BinMatrixReader_ValidateRowFooter_IncorrectVersion Method " Url="html/8d8031e4-ed2e-5637-76b6-69e0b4aa4615.htm" />
+        <HelpTOCNode Title="Test_JsonMatrixReader_Load Method " Url="html/43cfcbf5-1d73-cefb-09f2-bee97458f454.htm" />
+        <HelpTOCNode Title="Test_MatrixLoad_MissingNumber Method " Url="html/1f60b3df-cb91-3c3a-5169-23a66315e4b7.htm" />
+        <HelpTOCNode Title="Test_MatrixLoad_WrongFormat Method " Url="html/0beeab95-289e-0724-231b-caeff5dfc4e3.htm" />
+        <HelpTOCNode Title="Test_TxtMatrixReader_LoadDifferentMatrixes Method " Url="html/a319b679-e9db-0c58-0890-163f1db441e9.htm" />
+        <HelpTOCNode Title="Test_TxtMatrixReader_LoadEqualMatrixes Method " Url="html/061aac04-c162-8127-b5df-725be3e5d1a6.htm" />
+        <HelpTOCNode Title="Test_XmlMatrixReader_Load Method " Url="html/c814f6dc-dbd1-f47a-68ba-77612bc5e092.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="6c37cb8b-0e51-4a2b-b24f-534c3234b54b" Title="Row Class" Url="html/6407ef5e-6c97-bf5a-fa11-8980734e03e4.htm">
+      <HelpTOCNode Title="Row Constructor " Url="html/f8a652ea-4b70-9f35-f168-e2638dc160af.htm" />
+      <HelpTOCNode Id="c3fa8a2c-f008-48e0-b1a2-7d7d6ec83694" Title="Row Fields" Url="html/84114dfd-27b7-7c06-a47a-150066d56f03.htm">
+        <HelpTOCNode Title="Coefs Field" Url="html/32bd4db5-5cf3-a16d-4b8a-472933cb8fa6.htm" />
+        <HelpTOCNode Title="Result Field" Url="html/38e8881d-7882-9bc4-29c2-f50a607d58f3.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Title="Row Methods" Url="html/e647c168-7055-e429-4d86-aada35da1d6c.htm" />
+    </HelpTOCNode>
+  </HelpTOCNode>
+  <HelpTOCNode Id="062bcb94-f1f5-4e77-bdd5-0ea816affb9a" Title="RationalLib" Url="html/c39f5e2f-e9cd-75b3-b5ee-f3d5e239b261.htm">
+    <HelpTOCNode Id="35cdbc92-ed7a-4352-828b-de7137ce398d" Title="Rational Structure" Url="html/ce321d41-4ca6-3c0e-b769-03dc88ba5e52.htm">
+      <HelpTOCNode Title="Rational Constructor " Url="html/0a2f7c50-3a69-3669-35ba-88ba713d8a1e.htm" />
+      <HelpTOCNode Id="2103e66d-feea-4a52-aad6-29a8643a360a" Title="Rational Methods" Url="html/6f606741-13dc-e0ee-da70-02014a214b87.htm">
+        <HelpTOCNode Title="Equals Method " Url="html/1ff934ec-f95b-c3c7-48bb-095158ec364f.htm" />
+        <HelpTOCNode Title="GetHashCode Method " Url="html/a708f79b-b22e-59df-ab9d-0d37212cb144.htm" />
+        <HelpTOCNode Title="Parse Method " Url="html/c3bac21a-319f-0210-06b2-7f8413e83084.htm" />
+        <HelpTOCNode Title="ToString Method " Url="html/00f8bf01-1b85-5186-7ab8-26a6b1c7f058.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="b23fa09e-600a-49d4-9b9c-7a3561fabf2b" Title="Rational Operators and Type Conversions" Url="html/1f024d37-ccda-4a87-d639-29c01b2bca23.htm">
+        <HelpTOCNode Title="Addition Operator " Url="html/591adc9a-619c-82bb-346a-6637e37226f7.htm" />
+        <HelpTOCNode Title="Division Operator " Url="html/76480ca0-aa9a-3022-0446-83469a045726.htm" />
+        <HelpTOCNode Title="Equality Operator " Url="html/d4cbd6db-953f-ec8e-6e18-23652a4996c2.htm" />
+        <HelpTOCNode Title="GreaterThan Operator " Url="html/e9ac9db5-0cf5-7152-7b61-f2b1d27397e6.htm" />
+        <HelpTOCNode Id="fca88ae1-b604-4a73-92ee-f26e52fc5e8f" Title="Implicit Conversion Operators" Url="html/23357887-94f4-b6ba-917b-a8346ed6e59a.htm">
+          <HelpTOCNode Title="Implicit Conversion (Double to Rational)" Url="html/c2105a29-cfc9-b70b-d87a-800017cbcdf3.htm" />
+          <HelpTOCNode Title="Implicit Conversion (Int32 to Rational)" Url="html/c88cbd03-8858-3564-2dfe-1bbdb791db5c.htm" />
+        </HelpTOCNode>
+        <HelpTOCNode Title="Inequality Operator " Url="html/158374b2-e0f6-9c6c-5993-31898188b28f.htm" />
+        <HelpTOCNode Title="LessThan Operator " Url="html/d7a7b94e-4eca-d7c3-a2c3-3bf45cdf39c1.htm" />
+        <HelpTOCNode Title="Multiply Operator " Url="html/98084046-5e45-81aa-49e6-a99330e18142.htm" />
+        <HelpTOCNode Title="Subtraction Operator " Url="html/6ba9656e-c519-1d96-aae4-c24d99beb4b5.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="2ea35a72-d729-4a5e-b96e-c97642155729" Title="Rational Properties" Url="html/ea0c43af-06bd-63f8-58f3-7e7a062883a6.htm">
+        <HelpTOCNode Title="Denominator Property " Url="html/a78bd8a4-211d-a178-add9-144c8882db78.htm" />
+        <HelpTOCNode Title="Numerator Property " Url="html/ab830b1b-5b51-aa6c-f38d-990305c973e9.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+  </HelpTOCNode>
+  <HelpTOCNode Id="b9815637-eab8-44c4-a187-bc1425ab522d" Title="RationalLibUnitTest" Url="html/23a9d4eb-41d6-4b57-b203-c0ad19c02e62.htm">
+    <HelpTOCNode Id="c078936a-1d12-4d68-892e-cc40bc3f76e6" Title="MainRationalTest Class" Url="html/6d61ecac-befb-d4a9-a56d-28a82657101d.htm">
+      <HelpTOCNode Title="MainRationalTest Constructor " Url="html/b482451c-924c-bf7f-2a64-2a919f453113.htm" />
+      <HelpTOCNode Id="0a794dc0-cb55-4885-ad7c-5fb25e1774e8" Title="MainRationalTest Methods" Url="html/20396113-ffb5-99c1-fe60-2593f9f28876.htm">
+        <HelpTOCNode Title="Test_BiggerOperatorNegative Method " Url="html/c1cfab78-8c0b-5ce0-4ef6-40068ae0126a.htm" />
+        <HelpTOCNode Title="Test_BiggerOperatorPositive Method " Url="html/fff74f54-d26f-30ad-ba34-5ea13ad1e8ec.htm" />
+        <HelpTOCNode Title="Test_CompareOperatorPositive Method " Url="html/bb72e8e8-9bff-2990-6bab-1138bbb1682a.htm" />
+        <HelpTOCNode Title="Test_DivisionOperatorNegative Method " Url="html/bec9ecba-01ae-98fa-674b-498fcb02fc6e.htm" />
+        <HelpTOCNode Title="Test_DivisionOperatorPositive Method " Url="html/dbdcdae3-5ccf-c3ec-6e16-2dccbbe6a2f6.htm" />
+        <HelpTOCNode Title="Test_EqualOperatorNegative Method " Url="html/8fd2a60a-0ab6-99fe-ae1a-91acb064df07.htm" />
+        <HelpTOCNode Title="Test_GetDigitsAmount_FiveDigitNumber Method " Url="html/6fff1525-9740-ae81-1c2a-5a7d74fae830.htm" />
+        <HelpTOCNode Title="Test_GetHighestCommonDividor Method " Url="html/15d40ffb-095e-3615-e1f6-c4037cef7cba.htm" />
+        <HelpTOCNode Title="Test_GetListOfCommonPartialDividors Method " Url="html/3ab7110e-fb9c-e2f2-c068-48626ad58e56.htm" />
+        <HelpTOCNode Title="Test_GetPartialDividors Method " Url="html/d139e143-d9ad-b38d-66df-b52aff26f55e.htm" />
+        <HelpTOCNode Title="Test_GetSmallestCommonMultiple_TwoPrimeNumbers Method " Url="html/8a9fd36d-4f29-c849-2832-029a694dc190.htm" />
+        <HelpTOCNode Title="Test_GetSmallestCommonMultiple_TwoSplittableNumbers Method " Url="html/e8e5632e-70f2-78b3-4606-4ed796cda57d.htm" />
+        <HelpTOCNode Title="Test_MinusOperatorNegative Method " Url="html/25e2fbc5-4bfc-f812-79c0-3c688120eefd.htm" />
+        <HelpTOCNode Title="Test_MinusOperatorPositive Method " Url="html/95adf660-7fe9-f22e-1488-455981471ba9.htm" />
+        <HelpTOCNode Title="Test_MulOperatorNegative Method " Url="html/edc90869-4860-337c-3cea-9c8333d6cda4.htm" />
+        <HelpTOCNode Title="Test_MulOperatorPositive Method " Url="html/78622e36-1fe3-a7a5-5c18-3f11d1915321.htm" />
+        <HelpTOCNode Title="Test_PlusOperatorNegative Method " Url="html/57a12d02-a5d3-be0b-a285-5b1daca2027b.htm" />
+        <HelpTOCNode Title="Test_PlusOperatorPositive Method " Url="html/a675cca7-fb58-798c-358d-b2d77b413480.htm" />
+        <HelpTOCNode Title="Test_SmallerOperatorNegative Method " Url="html/c5012c5f-0a59-68b7-c8c5-9a4453948b66.htm" />
+        <HelpTOCNode Title="Test_SmallerOperatorPositive Method " Url="html/a7b42f90-8fe8-5df6-8adb-36f785cf82b9.htm" />
+        <HelpTOCNode Title="Test_UnequalOperatorNegative Method " Url="html/9b74b8b9-fc2f-d1dc-56da-865e7e73ba2e.htm" />
+        <HelpTOCNode Title="Test_UnequalOperatorPositive Method " Url="html/78dd4b6c-6cd5-3ccd-7caf-59fee9593815.htm" />
+        <HelpTOCNode Title="TestRationalPrecision Method " Url="html/c7b2b82c-4a9a-3c8b-0073-a4f011e5f68d.htm" />
+        <HelpTOCNode Title="TestRationalPrecisionInt Method " Url="html/5ef268f2-c6bb-dd2b-73fa-2454180b7a19.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+  </HelpTOCNode>
+</HelpTOC>
