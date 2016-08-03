@@ -50,12 +50,6 @@ namespace MatrixReaderLib
             return coefficients;
         }
 
-        //private string TxtToString(Stream stream)
-        //{
-        //    var rdr = new StreamReader(stream);
-        //    return rdr.ReadToEnd();
-        //}
-
         private static List<Rational[]> ReadLinesOfRational(string text)
         {
             ReplaceUnwantedSymbols(text);
